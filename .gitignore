@@ -1,0 +1,16 @@
+languages/*
+cron/*
+databases/*
+sessions/*
+errors/*
+cache/*
+uploads/*
+private/*
+*.py[oc]
+static/temp
+progress.log
+.DS_Store
+static/node_modules/
+static/dist/
+static/npm-debug.log
+
