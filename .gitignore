@@ -13,4 +13,6 @@ progress.log
 static/node_modules/
 static/dist/
 static/npm-debug.log
+static/yarn.lock
+static/package-lock.json
 
